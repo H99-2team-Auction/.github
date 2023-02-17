@@ -1,8 +1,6 @@
 # 리액트 사이드 팀프로젝트 중고경매마켓 돛단배
 
-**Stack**
-------
-<br/>
+## Stack
 
 **FrontEnd** <br/>
 React, Styled-component, Recoil, Axios, React-query <br/>
