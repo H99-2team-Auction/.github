@@ -6,6 +6,10 @@
 React, Styled-component, Recoil, Axios, React-query <br/>
 <br/>
 
+**BackEnd** <br/>
+MySQL Driver, H2 Database, Spring Web, Spring Security, Validation, Spring Data JPA, Spring Boot Dev Tools, Lombok <br/>
+<br/>
+
 **👩 Team Member Info**
 
 | Position  | Name   | Github                          |
@@ -16,4 +20,5 @@ React, Styled-component, Recoil, Axios, React-query <br/>
 | BE        | 이기재 | https://github.com/alestorm001 |
 
 
+**SA**
 https://docs.google.com/spreadsheets/d/1u4aVGuqtAgaITVHx7e-sYFFESF4-hbqa5oDGZNIm57A/edit?usp=sharing
