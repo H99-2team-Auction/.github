@@ -20,5 +20,5 @@ MySQL Driver, H2 Database, Spring Web, Spring Security, Validation, Spring Data 
 | BE        | 이기재 | https://github.com/alestorm001 |
 
 
-**📄 SA**
+**📄 SA** <br/>
 https://docs.google.com/spreadsheets/d/1u4aVGuqtAgaITVHx7e-sYFFESF4-hbqa5oDGZNIm57A/edit?usp=sharing
